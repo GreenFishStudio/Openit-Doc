@@ -1,0 +1,25 @@
+name: 'Build HTML'
+on: 
+  workflow_dispatch:
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with: 
+          token: ${{ secrets.TOKEN }}
+      - name: install and build
+        run: |        
+          npm install vuepress -g
+          npm run build
+      - name: tell who you are
+        run: git config --global user.email "yxyusteven@gmail.com"&&git config --global user.name "Yu Steven"
+      - name: check for changes
+        run: git status
+      - name: stage changed files
+        run: git add .
+      - name: commit changed files
+        run: git commit -m "Build HTML"
+      - name: push code
+        run: git push
