@@ -11,3 +11,4 @@ npm install
 npm run dev
 npm run build
 ```
+您可以对本仓库做出贡献，目前开放文档PR，提交准则日后推出。

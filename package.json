@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GreenFishStudio/Openit-Doc.git"
+    "url": "git+https://github.com/Openit-FQ/openit-document.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GreenFishStudio/Openit-Doc/issues"
+    "url": "https://github.com/Openit-FQ/openit-document/issues"
   },
-  "homepage": "https://github.com/GreenFishStudio/Openit-Doc/blob/master/docs/README.md",
+  "homepage": "https://github.com/Openit-FQ/openit-document#readme",
   "dependencies": {
     "@vssue/api-github-v3": "^1.4.7",
     "@vssue/vuepress-plugin-vssue": "^1.4.8",
