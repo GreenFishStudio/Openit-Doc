@@ -32,14 +32,14 @@ module.exports = {
             {text: '文档', link: '/guide/' },
             {text: '教程', link: '/tutorial/' },
             {text: '复制订阅链接',items:[
-                    {text:'Clash（右键复制）',link:"https://openit.daycat.space/clash"},
-                    {text:'Base64（右键复制）',link:"https://openit.daycat.space/long"},
-                    {text:'Shadowrocket（长按复制）',link:"https://openit.daycat.space/https"},
-                    {text:'Quantumult X（长按复制）',link:"https://openit.daycat.space/qx"}
+                    {text:'Clash（右键复制）',link:"https://dllx.tk/clash"},
+                    {text:'Base64（右键复制）',link:"https://dllx.tk/long"},
+                    {text:'Shadowrocket（长按复制）',link:"https://dllx.tk/https"},
+                    {text:'Quantumult X（长按复制）',link:"https://dllx.tk/qx"}
                 ]},
             {text: '一键导入',items:[
-                    {text: 'Shadowrocket',link:'shadowrocket://config/add/https://openit.daycat.space/https'},
-                    {text: 'Clash for Windows',link: 'clash://install-config?url=https://openit.daycat.space/clash&name=Openit%20%E8%AE%A2%E9%98%85'}
+                    {text: 'Shadowrocket',link:'shadowrocket://config/add/https://dllx.tk/https'},
+                    {text: 'Clash for Windows',link: 'clash://install-config?url=https://dllx.tk/clash&name=Openit%20%E8%AE%A2%E9%98%85'}
 
                 ]}
         ],
