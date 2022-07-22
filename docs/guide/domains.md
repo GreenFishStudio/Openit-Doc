@@ -31,5 +31,11 @@
 ### 4. openit.992266.xyz
 ### 5. openit.daycat.space
 
+### 6. dllx.tk
+### 7. dllv.tk
+### 8. dllo.tk
+### 9. dlli.tk
+### 10. dllc.tk
+
 
 ##### [Openit Status / 运行状态](https://openit.checklyhq.com/)
