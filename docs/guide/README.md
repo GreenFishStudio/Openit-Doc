@@ -29,16 +29,18 @@
 
 
 **Base64**
-```https://openit.daycat.space/long```
+```https://dllx.tk/long```
 
 **小火箭**
-```https://openit.daycat.space/https```
+```https://dllx.tk/https```
 
 **Clash**
-```https://openit.daycat.space/clash```
+```https://dllx.tk/clash```
 
 **Quanx**
-```https://openit.daycat.space/qx```
+```https://dllx.tk/qx```
+
+PS: 链接中的`dllx`可替换为`dllc` `dlli` `dllo` `dllv`
 
 ::: tip 不同订阅之间的区别 
 
